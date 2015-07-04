@@ -1,5 +1,5 @@
 # Blade
-Ruby on Rails inspired micro web framework written in swift. With Initial focus on large scale monolith JSON APIs.
+Ruby on Rails inspired micro web framework written in swift 2.0 (Open Source). With Initial focus on large scale monolith JSON APIs.
 
 ## Design Philosophy 
 - DRY: Don't repeat yourself
